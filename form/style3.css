@@ -1,0 +1,119 @@
+#acb{
+	float:left;
+}
+#de{
+		width:300px;
+	background:white;
+border: 2px solid;
+	margin:0 auto;
+	border-radius:20px;
+	margin-left:800px;
+padding:5px;	
+}
+	
+
+.ab{
+	padding:10px;
+	margin:10px;
+	opacity:0.7;
+	
+	background:white;
+	width:200px;
+	border-style:hidden;
+	outline:none;
+	border-bottom-style:solid;
+	border-top-style:solid;
+
+}
+.bc{
+	padding:10px;
+	background:black;
+	opacity:0.8;
+	color:white;
+	font-size:15px;
+	border-radius:10px;
+	margin-left:100px;
+	font-family:Bradley Hand ITC;
+	
+	
+}
+.bc:hover{
+	opacity:1;
+	background:lightblue;
+}
+#df{
+	color:black;
+	font-family:Bradley Hand ITC;
+	font-size:15px;
+}
+
+#ef{
+	width:800px auto;
+	width:800px;
+	margin-top:10px;
+	border-style:hidden;
+
+	color:white;
+	font-family:Bernard MT Condensed;
+	padding:30px;
+	margin-left:5px;
+	border-radius:10px;
+	opacity:0.99;
+		background:WHITE;
+	border-bottom-style:solid;
+}
+#de2{
+	width:300px;
+	height:30px;
+		background:black;
+	border-radius:10px;
+		font-family:Bernard MT Condensed;
+	border-radius:20px;
+	font-size:20px;
+	TEXT-ALIGN:CENTER;
+
+	color:white;
+}
+#de2:hover{
+	background:red;
+}
+/*from here the login style is begin*/
+
+#f1{
+	width:50px auto;
+	width:300px;
+	background:lightblue;
+border-radius:20px;
+}
+#f11{
+	width:50px auto;
+	width:300px;
+	margin-left:50%;
+	margin-top:20px;
+	background:lightblue;
+border-radius:20px;
+}
+#nm{
+	text-align:center;
+	font-family:Bernard MT Condensed;
+    font-size:20px;
+	
+	}
+#uss{
+	width:80%;
+	margin-left:10px;
+	border-style:hidden;
+	
+	opacity:0.8;
+	border-bottom-style:solid;
+	background:transparent;
+	outline:none;
+}	
+#us2{
+	border-radius:20px;
+	width:80px;
+	height:30px;
+	margin-left:50%;
+	margin-top:10px;
+	
+}

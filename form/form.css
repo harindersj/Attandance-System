@@ -1,0 +1,78 @@
+
+#form{
+margin:9px auto;
+width:600px;
+margin-left:20px;
+margin-bottom:40px;
+border-radius:30px;
+opacity:0.8;
+
+background: #273746  ;
+  
+}
+#clss{
+	text-align:center;
+	font-family:Bernard MT Condensed;
+	font-size:30px;
+	color:white;
+}
+.p{
+	font-family:Bernard MT Condensed;
+	color: #17202A  ;
+	margin-left:20px;
+	letter-spacing:2px;
+		color:white;
+	
+}
+.input{
+	width:80%;
+	border-style:hidden;
+	outline:none;
+	
+	border-bottom-style:solid;
+    font-size:20px;
+	margin-left:30px;
+	background:transparent;
+	color:white;;
+	font-family:Arial Black;
+	height:40px;
+	
+}
+.login{
+	width:50%;
+	height:30px;
+	margin-top:20px;
+	font-family:Bernard MT Condensed;
+	letter-spacing:7px;
+	text-align:center;
+	background:#17202A  ;
+	color:white;
+	border-style:hidden;
+	border-radius:20px;
+	
+}
+.refresh{
+	
+	width:50%;
+	height:30px;
+	margin-top:20px;
+	font-family:Bernard MT Condensed;
+	letter-spacing:7px;
+	text-align:center;
+	background:#17202A;
+	color:white;
+	border-style:hidden;
+	border-radius:20px;
+	margin-bottom:20px;
+
+	}
+	.login:hover
+	{
+		background:#3498DB  ;
+	}
+	.refresh:hover
+	{
+		background: #C0392B ;
+	}
+	
+	

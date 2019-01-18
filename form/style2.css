@@ -1,0 +1,132 @@
+
+#abc{
+	margin-left:40%;
+	margin-top:20%;
+}
+#ab{
+	width:800px auto;
+	width:800px;
+	margin-top:10px;
+	border-style:hidden;
+	background:black;
+	color:white;
+	font-family:Arial Rounded MT Bold;
+	padding:10px;
+	margin-left:5px;
+	border-radius:10px;
+	opacity:0.9;
+}
+#ab:hover{
+	opacity:1;
+}
+#bc{
+	border-style:hidden;
+	padding:5px;
+	
+	font-family:Arial Rounded MT Bold;
+	border-bottom-style:solid;
+}
+#cd{
+border-style:hidden;
+	font-family:Arial Rounded MT Bold;
+	padding:10px;
+	border-bottom-style:solid;
+border-left-style:solid;	
+}
+#de{
+	color:black;
+	float:left;
+	opacity:0.7;
+	font-size:20px;
+	font-family:Bernard MT Condensed;
+	background:white;
+	border-radius:20px;
+	font-size:20px;
+	list-style:none;
+	padding-left:50px;
+	padding-right:50px;
+	
+	margin:5px 20px 10px 60px;
+}
+#de:hover{
+	background:lightblue;
+}
+#ef{
+	width:800px auto;
+	width:800px;
+	margin-top:10px;
+	border-style:hidden;
+	background:black;
+	color:white;
+	font-family:Bernard MT Condensed;
+	padding:30px;
+	margin-left:5px;
+	border-radius:10px;
+	opacity:0.99;
+	
+	border-bottom-style:solid;
+}
+#gh{
+	border-style:hidden;
+	border-bottom-style:solid;
+}
+#hi{
+	width:300px;
+	height:60px;
+	border-style:hidden;
+	background:black;
+	color:white;
+	border-radius:20px;
+	font-size:20px;
+	opacity:0.9;
+	font-family:Bernard MT Condensed;
+	margin-top:20px;
+	text-align:center;
+	
+}
+#hi:hover{
+	opacity:1;
+}
+#de2{
+	width:300px;
+	height:30px;
+		font-family:Californian FB;
+		font-size:20px;
+	border-radius:20px;
+	background:black;
+	color:white;
+}
+#de2:hover{
+	background:lightblue;
+}
+#de3{
+	width:300px;
+	height:30px;
+		font-family:Californian FB;
+		font-size:20px;
+	border-radius:20px;
+	background:black;
+	color:white;
+}
+#de3:hover{
+	background:red;
+}
+
+#true{
+	background:lightblue;
+	color:black;
+	border-radius:20px;
+		font-family:Californian FB;
+	font-size:20px;
+	opacity:0.8;
+	text-align:center;
+}
+#false{
+	background:red;
+	opacity:0.8;
+	color:black;
+	border-radius:20px;
+		font-family:Bernard MT Condensed;
+	font-size:20px;
+	text-align:center;
+}
